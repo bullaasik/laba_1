@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-1.file
-=======
-!**/*.hpp
-!**/*.cpp
->>>>>>> ebe6a3d1e9b870d1793da7f8f53cb90cdeb3b105
+/log
+/tmp
